@@ -3,7 +3,7 @@
 #include<time.h>
 #include <stdlib.h>
 #include <windows.h>
-
+//hello
 void SetBombNumbersZero(int IsBomb[][31],int bombnearby[][31]){
 		for(int i =1 ; i < 15 ; i++){
 			for(int j = 1 ; j<31  ;j++){
